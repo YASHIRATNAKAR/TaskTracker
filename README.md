@@ -15,3 +15,8 @@ Frontend: Next.js, React.js
 Styling: CSS, Styled-Components (or any other CSS-in-JS solution)
 State Management: Optional (e.g., Redux or Zustand)
 Authentication: Mock authentication
+
+RESULTS
+![Screenshot (99)](https://github.com/user-attachments/assets/aaf41402-cbe8-4db0-8f75-07eac86f254b)
+![Screenshot (100)](https://github.com/user-attachments/assets/8581c2db-7d1c-4946-9e03-eebedd1c2f02)
+
